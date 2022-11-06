@@ -1,0 +1,130 @@
+References
+[1]	M. Priyadarsini and P. Bera, “Software defined networking architecture, traffic management, security, and placement: A survey,” Comput. Networks, vol. 192, p. 108047, 2021.
+[2]	S. K. Keshari, V. Kansal, and S. Kumar, “A systematic review of quality of services (QoS) in software defined networking (SDN),” Wirel. Pers. Commun., vol. 116, no. 3, pp. 2593–2614, 2021.
+[3]	E. R. Jimson, K. Nisar, and M. H. A. Hijazi, “The state of the art of software defined networking (SDN) issues in current network architecture and a solution for network management using the SDN,” Int. J. Technol. Diffus., vol. 10, no. 3, pp. 33–48, 2019.
+[4]	A. P. Fajar and T. W. Purboyo, “A Survey Paper of Distributed Denial-of-Service Attack in Software Defined Networking (SDN),” Int. J. Appl. Eng. Res. ISSN, vol. 13, no. 1, pp. 973–4562, 2018, [Online]. Available: http://www.ripublication.com.
+[5]	W. Zhijun, L. Wenjing, L. Liang, and Y. Meng, “Low-rate DoS attacks, detection, defense, and challenges: A survey,” IEEE access, vol. 8, pp. 43920–43943, 2020.
+[6]	T. Ubale and A. K. Jain, “Survey on DDoS attack techniques and solutions in software-defined network,” in Handbook of computer networks and cyber security, Springer, 2020, pp. 389–419.
+[7]	P. J. Beslin Pajila and E. Golden Julie, “Detection of DDoS attack using SDN in IoT: A survey,” in Intelligent Communication Technologies and Virtual Mobile Networks, pp. 438–452, 2019.
+[8]	M. A. Alarqan, Z. F. Zaaba, and A. Almomani, “Detection mechanisms of DDoS attack in cloud computing environment: A survey,” in International Conference on Advances in Cyber Security, pp. 138–152, 2019.
+[9]	A. S. Shukla and R. Maurya, “Entropy-based anomaly detection in a network,” Wirel. Pers. Commun., vol. 99, no. 4, pp. 1487–1501, 2018.
+[10]	G. Li and J. J. Jung, “Entropy-based dynamic graph embedding for anomaly detection on multiple climate time series,” Sci. Rep., vol. 11, no. 1, pp. 1–10, 2021.
+[11]	A. Howedi, A. Lotfi, and A. Pourabdollah, “An entropy-based approach for anomaly detection in activities of daily living in the presence of a visitor,” Entropy, vol. 22, no. 8, p. 845, 2020.
+[12]	M. Ahmed and A. N. Mahmood, “Network traffic pattern analysis using improved information theoretic co-clustering based collective anomaly detection,” in International conference on security and privacy in communication networks, pp. 204–219, 2014.
+[13]	S. A. Medjahed, M. Ouali, T. A. Saadi, and A. Benyettou, “An Optimization-Based Framework for Feature Selection and Parameters Determination of SVMs,” Int. J. Inf. Technol. Comput. Sci., vol. 7, pp. 1–9, 2015.
+[14]	L. Zhao and G. Shi, “A trajectory clustering method based on Douglas-Peucker compression and density for marine traffic pattern recognition,” Ocean Eng., vol. 172, pp. 456–467, 2019.
+[15]	S. Omar and H. H. Jebur, “Machine Learning Techniques for Anomaly Detection : An Overview,” vol. 79, no. 2, pp. 33–41, 2013.
+[16]	I. G. A. Poornima and B. Paramasivan, “Anomaly detection in wireless sensor network using machine learning algorithm,” Comput. Commun., vol. 151, pp. 331–337, 2020.
+[17]	M. Nawir, A. Amir, N. Yaakob, and O. B. Lynn, “Effective and efficient network anomaly detection system using machine learning algorithm,” Bull. Electr. Eng. Informatics, vol. 8, no. 1, pp. 46–51, 2019.
+[18]	R. Wang, Z. Jia, and L. Ju, “An entropy-based distributed DDoS detection mechanism in software-defined networking,” Proc. - 14th IEEE Int. Conf. Trust. Secur. Priv. Comput. Commun. Trust. 2015, vol. 1, pp. 310–317, 2015, doi: 10.1109/Trustcom.2015.389.
+[19]	N. Z. Bawany, J. A. Shamsi, and K. Salah, “DDoS Attack Detection and Mitigation Using SDN: Methods, Practices, and Solutions,” Arab. J. Sci. Eng., vol. 42, no. 2, pp. 425–441, 2017, doi: 10.1007/s13369-017-2414-5.
+[20]	“Classification Algorithms in Machine Learning.” [Online]. Available: https://medium.com/datadriveninvestor/classification-algorithms-in-machine-learning-85c0ab65ff4, 2019.
+[21]	M. Mohammed, M. B. Khan, and E. B. M. Bashier, Machine learning: algorithms and applications. Crc Press, 2016.
+[22]	A. Singh, N. Thakur, and A. Sharma, “A review of supervised machine learning algorithms,” in 2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom), 2016, pp. 1310–1315.
+[23]	M. Latah and L. Toker, “A novel intelligent approach for detecting DoS flooding attacks in software-defined networks,” Int. J. Adv. Intell. Informatics, vol. 4, no. 1, pp. 11–20, 2018, doi: 10.26555/ijain.v4i1.138.
+[24]	H. Peng, Z. Sun, X. Zhao, S. Tan, and Z. Sun, “A detection method for anomaly flow in software defined network,” IEEE Access, vol. 6, pp. 27809–27817, 2018.
+[25]	G. A. O. Shang, P. Zhe, X. Bin, H. U. Aiqun, and R. E. N. Kui, “FloodDefender : Protecting Data and Control Plane Resources under SDN-aimed DoS Attacks,” 2017.
+[26]	J. Ashraf and S. Latif, “Handling intrusion and DDoS attacks in Software Defined Networks using machine learning techniques,” in 2014 National Software Engineering Conference, 2014, pp. 55–60.
+[27]	T. Wang and H. Chen, “SGuard: A lightweight SDN safe-guard architecture for DoS attacks,” China Commun., vol. 14, no. 6, pp. 113–125, 2017.
+[28]	M. P. Novaes, L. F. Carvalho, J. Lloret, and M. L. Proença, “Long Short-Term Memory and Fuzzy Logic for Anomaly Detection and Mitigation in Software-Defined Network Environment,” IEEE Access, vol. 8, pp. 83765–83781, 2020.
+[29]	A. Alshamrani, A. Chowdhary, S. Pisharody, D. Lu, and D. Huang, “A defense system for defeating DDoS attacks in SDN based networks,” MobiWac 2017 - Proc. 15th ACM Int. Symp. Mobil. Manag. Wirel. Access, Co-located with MSWiM 2017, no. July 2018, pp. 83–92, 2017, doi: 10.1145/3132062.3132074.
+[30]	F. Musumeci, A. C. Fidanci, F. Paolucci, F. Cugini, and M. Tornatore, “Machine-Learning-enabled DDoS attacks detection in P4 programmable networks,” J. Netw. Syst. Manag., vol. 30, no. 1, pp. 1–27, 2022.
+[31]	B. Han, X. Yang, Z. Sun, J. Huang, and J. Su, “OverWatch: A cross-plane DDoS attack defense framework with collaborative intelligence in SDN,” Secur. Commun. Networks, vol. 2018, 2018.
+[32]	C. Xu, H. Lin, Y. Wu, X. Guo, and W. Lin, “An SDNFV-Based DDoS Defense Technology for Smart Cities,” IEEE Access, vol. 7, pp. 137856–137874, 2019, doi: 10.1109/ACCESS.2019.2943146.
+[33]	Y. Xu, H. Sun, F. Xiang, and Z. Sun, “Efficient DDoS Detection Based on K-FKNN in Software Defined Networks,” IEEE Access, vol. 7, pp. 160536–160545, 2019, doi: 10.1109/ACCESS.2019.2950945.
+[34]	H. Polat, O. Polat, and A. Cetin, “Detecting DDoS Attacks in Software-Defined Networks Through Feature Selection Methods and Machine Learning Models,” Sustainability, vol. 12, no. 3, p. 1035, 2020.
+[35]	A. Chonka, J. Singh, and W. Zhou, “Chaos theory based detection against network mimicking DDoS attacks,” IEEE Commun. Lett., vol. 13, no. 9, pp. 717–719, 2009.
+[36]	R. M. A. Ujjan, Z. Pervez, K. Dahal, A. K. Bashir, R. Mumtaz, and J. González, “Towards sFlow and adaptive polling sampling for deep learning based DDoS detection in SDN,” Futur. Gener. Comput. Syst., vol. 111, pp. 763–779, 2020.
+[37]	F. Musumeci, V. Ionata, F. Paolucci, F. Cugini, and M. Tornatore, “Machine-learning-assisted DDoS attack detection with P4 language,” in ICC 2020-2020 IEEE International Conference on Communications (ICC), 2020, pp. 1–6.
+[38]	J. Boite, P. A. Nardin, F. Rebecchi, M. Bouet, and V. Conan, “Statesec: Stateful monitoring for DDoS protection in software defined networks,” 2017 IEEE Conf. Netw. Softwarization Softwarization Sustain. a Hyper-Connected World en Route to 5G, NetSoft 2017, 2017, doi: 10.1109/NETSOFT.2017.8004113.
+[39]	Y. Goto, B. Ng, W. K. G. Seah, and Y. Takahashi, “Queueing analysis of software defined network with realistic openflow–based switch model,” Comput. Networks, vol. 164, p. 106892, 2019.
+[40]	Y.-C. Lai, A. Ali, M. S. Hossain, and Y.-D. Lin, “Performance modeling and analysis of TCP and UDP flows over software defined networks,” J. Netw. Comput. Appl., vol. 130, pp. 76–88, 2019.
+[41]	R. Swami, M. Dave, and V. Ranga, “Detection and analysis of TCP-SYN DDoS attack in software-defined networking,” Wirel. Pers. Commun., vol. 118, no. 4, pp. 2295–2317, 2021.
+[42]	S. Yu, Y. Tian, S. Guo, and D. O. Wu, “Can we beat DDoS attacks in clouds?,” IEEE Trans. parallel Distrib. Syst., vol. 25, no. 9, pp. 2245–2254, 2013.
+[43]	G. Wang, J. Li, and X. Chang, “Modeling and performance analysis of the multiple controllers’ approach in software defined networking,” in 2015 IEEE 23rd International Symposium on Quality of Service (IWQoS), pp. 73–74, 2015.
+[44]	W. Miao, G. Min, Y. Wu, and H. Wang, “Performance modelling of preemption-based packet scheduling for data plane in software defined networks,” in 2015 IEEE International Conference on Smart City/SocialCom/SustainCom (SmartCity), pp. 60–65, 2015.
+[45]	B. Xiong, K. Yang, J. Zhao, W. Li, and K. Li, “Performance evaluation of OpenFlow-based software-defined networks based on queueing model,” Comput. Networks, vol. 102, pp. 172–185, 2016.
+[46]	A. Fahmin, Y.-C. Lai, M. S. Hossain, and Y.-D. Lin, “Performance modeling and comparison of NFV integrated with SDN: Under or aside?,” J. Netw. Comput. Appl., vol. 113, pp. 119–129, 2018.
+[47]	M. Jarschel, S. Oechsner, D. Schlosser, R. Pries, S. Goll, and P. Tran-Gia, “Modeling and performance evaluation of an OpenFlow architecture,” in 2011 23rd International Teletraffic Congress (ITC), pp. 1–7, 2011.
+[48]	K. Mahmood, A. Chilwan, O. N. Østerbø, and M. Jarschel, “On the modeling of openflow-based sdns: The single node case,” arXiv Prepr. arXiv1411.4733, 2014.
+[49]	K. Mahmood, A. Chilwan, O. Østerbø, and M. Jarschel, “Modelling of OpenFlow-based software-defined networks: the multiple node case,” IET Networks, vol. 4, no. 5, pp. 278–284, 2015.
+[50]	S. Azodolmolky, R. Nejabati, M. Pazouki, P. Wieder, R. Yahyapour, and D. Simeonidou, “An analytical model for software defined networking: A network calculus-based approach,” in 2013 IEEE Global Communications Conference (GLOBECOM), pp. 1397–1402, 2013.
+[51]	S. Azodolmolky, P. Wieder, and R. Yahyapour, “Performance evaluation of a scalable software-defined networking deployment,” in 2013 Second European Workshop on Software Defined Networks, pp. 68–74, 2013.
+[52]	Z. Bozakov and A. Rizk, “Taming SDN controllers in heterogeneous hardware environments,” in 2013 Second European Workshop on Software Defined Networks, pp. 50–55, 2013.
+[53]	M. Munir, I. Ardiansyah, J. D. Santoso, A. Mustopa, and S. Mulyatun, “DETECTION AND MITIGATION OF DISTRIBUTED DENIAL OF SERVICE ATTACKS ON NETWORK ARCHITECTURE SOFTWARE DEFINED NETWORKING USING THE NAIVE BAYES ALGORITHM,” J. Inf. Syst. Manag., vol. 3, no. 2, pp. 51–55, 2022.
+[54]	R. Amin, M. Reisslein, and N. Shah, “Hybrid SDN Networks : A Survey of Existing Approaches,” IEEE Commun. Surv. Tutorials, vol. 20, no. 4, pp. 3259–3306, 2018, doi: 10.1109/COMST.2018.2837161.
+[55]	S. M. Mousavi and M. St-Hilaire, “Early detection of DDoS attacks against SDN controllers,” 2015 Int. Conf. Comput. Netw. Commun. ICNC 2015, pp. 77–81, 2015, doi: 10.1109/ICCNC.2015.7069319.
+[56]	L. Tan, Y. Pan, J. Wu, J. Zhou, H. Jiang, and Y. Deng, “A new framework for DDoS attack detection and defense in SDN environment,” IEEE Access, vol. 8, pp. 161908–161919, 2020.
+[57]	A. S. Arkan and M. Ahmadi, “Entropy-Based Anomaly Detection Using Observation Points Relations in Wireless Sensor Networks,” Wirel. Pers. Commun., vol. 119, no. 2, pp. 1783–1798, 2021.
+[58]	Y. Sun, J. Yu, J. Tian, Z. Chen, W. Wang, and S. Zhang, “IoT-IE: An Information-Entropy-Based Approach to Traffic Anomaly Detection in Internet of Things,” Secur. Commun. Networks, vol. 2021, 2021.
+[59]	J. Ibrahim and S. Gajin, “Entropy-based network traffic anomaly classification method resilient to deception,” Comput. Sci. Inf. Syst., no. 00, p. 45, 2021.
+[60]	“What Is Network Traff Analysis? Definition, Importance, Implementation, and Best Practices.” [Online]. Available: https://www.spiceworks.com/tech/networking/articles/network-traffic-analysis/, 2019.
+[61]	“5 Critical Reasons for Network Traff Analysis.” [Online]. Available: https://www.netmon.com/5-critical-reasons-network-traffic-analysis/, 2019.
+[62]	T. R. Bikbulatov and I. I. Kurochkin, “Simulation of DDoS attack on software defined networks,” in AIP Conference Proceedings, vol. 2181, Nov. 2019, doi: 10.1063/1.5135682.
+[63]	J. D. Markovic-Petrovic and M. D. Stojanovic, “Analysis of SCADA system vulnerabilities to DDoS attacks,” in 2013 11th international conference on telecommunications in modern satellite, cable and broadcasting services (telsiks), vol. 2, pp. 591–594, 2013.
+[64]	M. Jammal, T. Singh, A. Shami, R. Asal, and Y. Li, “Software defined networking: State of the art and research challenges,” Comput. Networks, vol. 72, pp. 74–98, 2014.
+[65]	Y. Djeldjeli and M. Zoubir, “CP-SDN: A New Approach for the Control Operation of 5G Mobile Networks to Improve QoS,” Eng. Technol. Appl. Sci. Res., vol. 11, no. 2, pp. 6857–6863, 2021.
+[66]	B. Almadani, A. Beg, and A. Mahmoud, “Dsf: A distributed sdn control plane framework for the east/west interface,” IEEE Access, vol. 9, pp. 26735–26754, 2021.
+[67]	A. M. Abdelrahman et al., “Software‐defined networking security for private data center networks and clouds: Vulnerabilities, attacks, countermeasures, and solutions,” Int. J. Commun. Syst., vol. 34, no. 4, p. e4706, 2021.
+[68]	S. Kaur, K. Kumar, and N. Aggarwal, “A review on P4-Programmable data planes: architecture, research efforts, and future directions,” Comput. Commun., vol. 170, pp. 109–129, 2021.
+[69]	S. Ahmad and A. H. Mir, “Scalability, consistency, reliability and security in SDN controllers: a survey of diverse SDN controllers,” J. Netw. Syst. Manag., vol. 29, no. 1, pp. 1–59, 2021.
+[70]	N. Feamster, J. Rexford, and E. Zegura, “The road to SDN: An intellectual history of programmable networks,” Comput. Commun. Rev., vol. 44, no. 2, pp. 87–98, 2014, doi: 10.1145/2602204.2602219.
+[71]	A. Doria et al., “Forwarding and Control Element Separation (ForCES) Protocol Specification.,” RFC, vol. 5810, pp. 1–124, 2010.
+[72]	P. H. Isolani, J. A. Wickboldt, C. B. Both, J. Rochol, and L. Z. Granville, “Interactive monitoring, visualization, and configuration of OpenFlow-based SDN,” in 2015 IFIP/IEEE International Symposium on Integrated Network Management (IM), pp. 207–215, 2015.
+[73]	N. Anerousis, P. Chemouil, A. A. Lazar, N. Mihai, and S. B. Weinstein, “The origin and evolution of open programmable networks and sdn,” IEEE Commun. Surv. Tutorials, vol. 23, no. 3, pp. 1956–1971, 2021.
+[74]	“Open Vswitch. 2018, [Online]. Available at: http://openvswitch.org.”, 2018.
+[75]	A. R. Abdou, P. C. Van Oorschot, and T. Wan, “Comparative analysis of control plane security of SDN and conventional networks,” IEEE Commun. Surv. Tutorials, vol. 20, no. 4, pp. 3542–3559, 2018, doi: 10.1109/COMST.2018.2839348.
+[76]	V. Bhavsar, C. Sahrial, and B. Goswami, “Security and Performance Evaluation of Software Defined Network Controllers Against Distributed Denial of Service Attack,” in 2021 Fourth International Conference on Electrical, Computer and Communication Technologies (ICECCT), pp. 1–8, 2021.
+[77]	H. Zhang, Z. Cai, Q. Liu, Q. Xiao, Y. Li, and C. F. Cheang, “A Survey on Security-Aware Measurement in SDN,” Secur. Commun. Networks, vol. 2018, 2018, doi: 10.1155/2018/2459154.
+[78]	Z. Latif, K. Sharif, F. Li, M. M. Karim, S. Biswas, and Y. Wang, “A comprehensive survey of interface protocols for software defined networks,” J. Netw. Comput. Appl., vol. 156, pp. 1–30, 2020, doi: 10.1016/j.jnca.2020.102563.
+[79]	M. N. A. Sheikh, “SDN-Based approach to evaluate the best controller: internal controller NOX and external controllers POX, ONOS, RYU,” Glob. J. Comput. Sci. Technol., 2019.
+[80]	A. V. Priya and N. Radhika, “Performance comparison of SDN OpenFlow controllers,” Int. J. Comput. Aided Eng. Technol., vol. 11, no. 4–5, pp. 467–479, 2019.
+[81]	P. T. Duy, H. Do Hoang, A. G.-T. Nguyen, and V.-H. Pham, “B-DAC: A decentralized access control framework on Northbound interface for securing SDN using blockchain,” J. Inf. Secur. Appl., vol. 64, p. 103080, 2022.
+[82]	L. Xiao, H. Zhu, S. Xiang, and P. Cong Vinh, “Modeling and verifying SDN under Multi‐controller architectures using CSP,” Concurr. Comput. Pract. Exp., vol. 33, no. 2, p. e5334, 2021.
+[83]	M. A. Togou, D. A. Chekired, L. Khoukhi, and G.-M. Muntean, “A hierarchical distributed control plane for path computation scalability in large scale software-defined networks,” IEEE Trans. Netw. Serv. Manag., vol. 16, no. 3, pp. 1019–1031, 2019.
+[84]	“Software-Defined Networking – SDN Guide.” [Online]. Available: https://www.comparitech.com/net-admin/software-defined-networking/, 2022.
+[85]	“SDN benefits and advantages.” [Online]. Available: https://opennetworking.org/sdn-resources/whitepapers/software-defined-networking-the-new-norm-for-networks/, 2022.
+[86]	“SDN advantages and benefits.” [Online]. Available: https://www.ibm.com/services/network/sdn-versus-traditional-networking, 2022.
+[87]	“Software-Defined Networking (SDN): An Overview.” [Online]. Available: https://www.analyticssteps.com/blogs/software-defined-networking-sdn-overview, 2022.
+[88]	“5 Advantages and Disadvantages of SDN | Drawbacks & Benefits of SDN.” [Online]. Available: https://www.hitechwhizz.com/2021/06/5-advantages-and-disadvantages-drawbacks-benefits-of-sdn.html, 2021.
+[89]	S. Bhardwaj and S. N. Panda, “Performance Evaluation Using RYU SDN Controller in Software-Defined Networking Environment,” Wirel. Pers. Commun., vol. 122, no. 1, pp. 701–723, 2022.
+[90]	K. Bhushan and B. B. Gupta, “Distributed denial of service (DDoS) attack mitigation in software defined network (SDN)-based cloud computing environment,” J. Ambient Intell. Humaniz. Comput., vol. 10, no. 5, pp. 1985–1997, 2019.
+[91]	J. F. Balarezo, S. Wang, K. G. Chavez, A. Al-Hourani, and S. Kandeepan, “A survey on DoS/DDoS attacks mathematical modelling for traditional, SDN and virtual networks,” Eng. Sci. Technol. an Int. J., 2021.
+[92]	Kleinrock, “L. Queuing systems, vol 1: theory.” New York, NY, USA: Wiley Interscience, 1975.
+[93]	T. D. Nadeau and P. Pan, “Software Driven Networks Problem Statement,”, Network Working Group Internet-Draft, Sep, vol. 30, 2011.
+[94]	D. Kreutz, F. M. V Ramos, and P. Verissimo, “Towards secure and dependable software-defined networks,” in Proceedings of the second ACM SIGCOMM workshop on Hot topics in software defined networking, pp. 55–60, 2013.
+[95]	 V. G. H. Xie, T. Tsou, D. Lopez, H. Yin, “Use cases for ALTO with software defined networks.” [Online]. Available: https://tools.ietf.org/html/draft-xie-alto-sdn-use-cases-01, 2019.
+[96]	I. Ahmad, S. Namal, M. Ylianttila, S. Member, A. Gurtov, and S. Member, “Security in Software Defined Networks : A Survey,” vol. 17, no. 4, pp. 2317–2346, 2015.
+[97]	G. Yao, J. Bi, and L. Guo, “On the cascading failures of multi-controllers in Software Defined Networks,” in 2013 21st IEEE International Conference on Network Protocols (ICNP), pp. 1–2, 2013, doi: 10.1109/ICNP.2013.6733624.
+[98]	M. Iqbal, F. Iqbal, F. Mohsin, M. Rizwan, and F. Ahmad, “Security Issues in Software Defined Networking (SDN): Risks, Challenges and Potential Solutions,” Int. J. Adv. Comput. Sci. Appl., vol. 10, no. 10, 2019, doi: 10.14569/IJACSA.2019.0101042.
+[99]	Z. Shu, J. Wan, D. Li, J. Lin, A. V. Vasilakos, and M. Imran, “Security in Software-Defined Networking: Threats and Countermeasures,” Mob. Networks Appl., vol. 21, no. 5, pp. 764–776, 2016, doi: 10.1007/s11036-016-0676-x.
+[100]	S. T. Zargar, J. Joshi, and D. Tipper, “A survey of defense mechanisms against distributed denial of service (DDOS) flooding attacks,” IEEE Commun. Surv. Tutorials, vol. 15, no. 4, pp. 2046–2069, 2013, doi: 10.1109/SURV.2013.031413.00127.
+[101]	C. Douligeris and A. Mitrokotsa, “DDoS attacks and defense mechanisms: classification and state-of-the-art,” Comput. Networks, vol. 44, no. 5, pp. 643–666, 2004.
+[102]	K. Kalkan, G. Gur, and F. Alagoz, “Defense Mechanisms against DDoS Attacks in SDN Environment,” IEEE Commun. Mag., vol. 55, no. 9, pp. 175–179, 2017, doi: 10.1109/MCOM.2017.1600970.
+[103]	L. Barki, A. Shidling, N. Meti, D. G. Narayan, and M. M. Mulla, “Detection of distributed denial of service attacks in software defined networks,” 2016 Int. Conf. Adv. Comput. Commun. Informatics, ICACCI 2016, pp. 2576–2581, 2016, doi: 10.1109/ICACCI.2016.7732445.
+[104]	H. Zenati, M. Romain, C.-S. Foo, B. Lecouat, and V. Chandrasekhar, “Adversarially learned anomaly detection,” in 2018 IEEE International conference on data mining (ICDM), pp. 727–736, 2018.
+[105]	M. Ahmed, A. N. Mahmood, and J. Hu, “A survey of network anomaly detection techniques,” J. Netw. Comput. Appl., vol. 60, pp. 19–31, 2016.
+[106]	M. H. H. Khairi, S. H. S. Ariffin, N. M. Abdul Latiff, A. S. Abdullah, and M. K. Hassan, “A Review of Anomaly Detection Techniques and Distributed Denial of Service (DDoS) on Software Defined Network (SDN),” Eng. Technol. Appl. Sci. Res., vol. 8, no. 2, pp. 2724–2730, 2018, doi: 10.48084/etasr.1840.
+[107]	R. M. A. Ujjan, Z. Pervez, K. Dahal, W. A. Khan, A. M. Khattak, and B. Hayat, “Entropy based features distribution for anti-DDoS model in SDN,” Sustainability, vol. 13, no. 3, p. 1522, 2021.
+[108]	M. Javed, A. B. Ashfaq, M. Z. Shafiq, and S. A. Khayam, “On the Inefficient Use of Entropy for Anomaly Detection,” in Proceedings of the 12th International Symposium on Recent Advances in Intrusion Detection, pp. 369–370, 2009, doi: 10.1007/978-3-642-04342-0_28.
+[109]	T.-F. Yen and M. K. Reiter, “Traffic Aggregation for Malware Detection,” in Proceedings of the 5th International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment, pp. 207–227, 2008, doi: 10.1007/978-3-540-70542-0_11.
+[110]	S. Ali, M. K. Alvi, S. Faizullah, M. A. Khan, A. Alshanqiti, and I. Khan, “Detecting DDoS attack on SDN Due to vulnerabilities in OpenFlow,” 2019 Int. Conf. Adv. Emerg. Comput. Technol. AECT 2019, 2020, doi: 10.1109/AECT47998.2020.9194211.
+[111]	R. Sommer and V. Paxson, “Outside the Closed World: On Using Machine Learning for Network Intrusion Detection,” in 2010 IEEE Symposium on Security and Privacy, pp. 305–316, 2010, doi: 10.1109/SP.2010.25.
+[112]	C.-F. Tsai, Y.-F. Hsu, C.-Y. Lin, and W.-Y. Lin, “Intrusion detection by machine learning: A review,” Expert Syst. Appl., vol. 36, no. 10, pp. 11994–12000, 2009, doi: https://doi.org/10.1016/j.eswa.2009.05.029.
+[113]	A. Abduvaliyev, A. K. Pathan, J. Zhou, R. Roman, and W. Wong, “On the Vital Areas of Intrusion Detection Systems in Wireless Sensor Networks,” IEEE Commun. Surv. Tutorials, vol. 15, no. 3, pp. 1223–1237, 2013, doi: 10.1109/SURV.2012.121912.00006.
+[114]	M. H. H. Khairi, S. H. S. Ariffin, N. M. Abdul Latiff, A. S. Abdullah, and M. K. Hassan, “A Review of Anomaly Detection Techniques and Distributed Denial of Service (DDoS) on Software Defined Network (SDN),” Eng. Technol. Appl. Sci. Res., vol. 8, no. 2 SE-, pp. 2724–2730, Apr. 2018, doi: 10.48084/etasr.1840.
+[115]	B. Mahesh, “Machine learning algorithms-a review,” Int. J. Sci. Res. (IJSR).[Internet], vol. 9, pp. 381–386, 2020.
+[116]	G. Bonaccorso, Machine learning algorithms. Packt Publishing Ltd, 2017.
+[117]	“35 Types of DDoS Attacks Explained.” [Online]. Available: https://javapipe.com/blog/ddos-types/, 2018.
+[118]	J. Ashraf and S. Latif, “Handling intrusion and DDoS attacks in Software Defined Networks using machine learning techniques,” Natl. Softw. Eng. Conf. NSEC 2014, pp. 55–60, 2014, doi: 10.1109/NSEC.2014.6998241.
+[119]	“The Mathematics Behind Support Vector Machine Algorithm (SVM). 2018, [online]. Available at: https://www.analyticsvidhya.com/blog/2020/10/the-mathematics-behind-svm/.”, 2018.
+[120]	T. N. T. Thu and V. D. Xuan, “Supervised support vector machine in predicting foreign exchange trading,” Int. J. Intell. Syst. Appl., vol. 10, no. 9, pp. 48–56, 2018, doi: 10.5815/ijisa.2018.09.06.
+[121]	G. A. Montazer, D. Giveki, M. Karami, and H. Rastegar, “Radial basis function neural networks: A review,” Comput. Rev. J, vol. 1, no. 1, pp. 52–74, 2018.
+[122]	M. A. Al-Adaileh, M. Anbar, Y.-W. Chong, and A. Al-Ani, “Proposed statistical-based approach for detecting distribute denial of service against the controller of software defined network (SADDCS),” in MATEC Web of Conferences, 2018, vol. 218, p. 2012.
+[123]	V. Moorthy, R. Venkataraman, and R. Gururajan, “Bayesian trust analysis of flooding attacks in distributed software defined networking nodes,” J. Ambient Intell. Humaniz. Comput., vol. 12, no. 7, pp. 7489–7498, 2021.
+[124]	D. Marek, A. Domański, J. Domańska, J. Szyguła, T. Czachórski, and J. Klamka, “Diffusion Model of a Non-Integer Order PIγ Controller with TCP/UDP Streams,” Entropy, vol. 23, no. 5, p. 619, 2021.
+[125]	P. Leguesdron, J. Pellaumail, G. Rubino, and B. Sericola, “Transient analysis of the M/M/1 queue,” Adv. Appl. Probab., vol. 25, no. 3, pp. 702–713, 1993.
+[126]	Y.-C. Lai, A. Ali, M. M. Hassan, M. S. Hossain, and Y.-D. Lin, “Performance modeling and analysis of tcp connections over software defined networks,” in GLOBECOM 2017-2017 IEEE global communications conference, pp. 1–6, 2017.
+[127]	“Mininet. 2018, [Online]. Available at: http://mininet.org.”, 2018.
+[128]	“Scapy 2018, [Online]. Available at: http://www.secdev.org/projects/scapy.”, 2018.
+[129]	M. E. Ahmed, H. Kim, and M. Park, “Mitigating DNS query-based DDoS attacks with machine learning on software-defined networking,” Proc. - IEEE Mil. Commun. Conf. MILCOM, vol. 2017-Octob, pp. 11–16, 2017, doi: 10.1109/MILCOM.2017.8170802.
